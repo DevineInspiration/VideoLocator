@@ -7,10 +7,10 @@ Current development builds are being tested on Tom Scott videos. The end goal of
 
 Built on and for <strong> Python 3.13.3 </strong>
 
-Due to the the use of Spacy, Visual Studio C++ build tools is required: which can be downloaded [here](https://visualstudio.microsoft.com/visual-cpp-build-tools/).
+Due to the the use of SpaCy, Visual Studio C++ build tools is required: which can be downloaded [here](https://visualstudio.microsoft.com/visual-cpp-build-tools/).
 
 The Python modules used are: <br />
 [NLTK](https://pypi.org/project/nltk/) <br />
 [locationtagger](https://pypi.org/project/locationtagger/) <br />
-[Spacy](https://pypi.org/project/spacy/) <br />
+[SpaCy](https://pypi.org/project/spacy/) <br />
 [pytubefix](https://pypi.org/project/pytubefix/) <br />
